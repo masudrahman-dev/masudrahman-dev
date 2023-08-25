@@ -1,5 +1,5 @@
 ### Hi there 👋, I'am Masud
-#### MERN Stack Developer
+#### javaScript Software Developer
 Building and maintaining web applications that are using MERN-based technologies and also I am playing with problem-solving on the codeForces. 
 
 Skills: JavaScript | React js | Next js | Node js | Express js | MongoDB | Firebase | C++
